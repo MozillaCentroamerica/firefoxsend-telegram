@@ -8,7 +8,7 @@ const decode = require('unescape');
 /**
  * Api key de telegram generado por @BotFather
  */
-const bot = new Telegraf('1132173112:AAHZdORSg3GbQ1O27GmsEInv6fFYHjD0gUY')
+const bot = new Telegraf('token...')
 
 /**
  * Comandos del bot de telegram
